@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1486776606 source:c:\users\administrator\naivemd5generator\main.cpp
+	<iostream>
+	<string>
+	"MD5.h"
+
+1486776343 c:\users\administrator\naivemd5generator\md5.h
+	<string>
+	<fstream>
+
+1486776411 source:c:\users\administrator\naivemd5generator\md5.cpp
+	"MD5.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
